@@ -36,11 +36,8 @@ The features present in this project:
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/120243097/206903360-5e76e365-9f56-4f5c-b3b1-6bb37db775e8.png)
-![image](https://user-images.githubusercontent.com/120243097/206903397-6f9d3b6d-9e00-428e-87a6-e29c6a830d4e.png)
-![image](https://user-images.githubusercontent.com/120243097/206903455-fd860e1b-471f-4860-a4e4-717e76945365.png)
-
-
-
+![image](https://user-images.githubusercontent.com/120243097/206903533-4dd8b72b-ad30-464a-b881-e354c7349810.png)
+![image](https://user-images.githubusercontent.com/120243097/206903569-cb0e7406-ea88-459a-97e6-9869508d40c6.png)
 
 ## Setup
 
