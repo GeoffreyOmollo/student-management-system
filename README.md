@@ -1,8 +1,4 @@
 # Student Management System
-<!--
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
--->
 
 >This is a Student Management System developed in Spring Boot and Thymeleaf
 
@@ -19,79 +15,51 @@
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
-
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- This is a Student Management System. It can help to store, list, add, edit or remove students from a database.
+- This project was inspired by my quest to learn Spring Boot. It had everything I was looking for: a simple but comprehensive, well elaborated project for learning Spring Boot
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
+- Java 16
+- Spring Boot
+- Thymeleaf
+- SQL
+- Hibernate
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
+The features present in this project:
+- You can add a student to a database
+- You can remove the student from the database
+- You can edit the student details
+- You can list all the students
 
 ## Screenshots
-<!--
-![Example screenshot](./img/screenshot.png)
- -->
+
 Screenshots
 
 
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
+To run the project you'll need a MYSQL server and establish a connection
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
+The project is: _no longer being worked on_. 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
+- Features like classes, marks, average and peformance of students could be added
+- Data analysis tools like progress of a student, or school could also be added
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
+- I was doing this project while learning Spring Boot and learning a new tech stack is never a walk in the park. I'd like to thank Ramesh Fadatare for his amazing works that made me achieve this project.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
+Created by Geoffrey Omollo - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+
