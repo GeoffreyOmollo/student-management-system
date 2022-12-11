@@ -35,7 +35,9 @@ The features present in this project:
 
 ## Screenshots
 
-Screenshots
+![image](https://user-images.githubusercontent.com/120243097/206903360-5e76e365-9f56-4f5c-b3b1-6bb37db775e8.png)
+![image](https://user-images.githubusercontent.com/120243097/206903397-6f9d3b6d-9e00-428e-87a6-e29c6a830d4e.png)
+![image](https://user-images.githubusercontent.com/120243097/206903455-fd860e1b-471f-4860-a4e4-717e76945365.png)
 
 
 
@@ -53,7 +55,7 @@ Room for improvement:
 - Data analysis tools like progress of a student, or school could also be added
 
 ## Acknowledgements
-- I was doing this project while learning Spring Boot and learning a new tech stack is never a walk in the park. I'd like to thank Ramesh Fadatare for his amazing works that made me achieve this project.
+- I was doing this project while learning Spring Boot and I'd like to thank Ramesh Fadatare for his amazing works that made me achieve this project.
 
 ## Contact
 Created by Geoffrey Omollo - feel free to contact me!
