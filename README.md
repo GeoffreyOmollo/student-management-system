@@ -53,7 +53,7 @@ Room for improvement:
 - Data analysis tools like progress of a student, or school could also be added
 
 ## Acknowledgements
-- I was doing this project while learning Spring Boot and I'd like to thank Ramesh Fadatare for his amazing works that made me achieve this project.
+- I'd like to thank Ramesh Fadatare for his amazing works that made me achieve this project.
 
 ## Contact
 Created by Geoffrey Omollo - feel free to contact me!
